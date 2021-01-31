@@ -1,3 +1,3 @@
-git pull origin master
+git pull origin main
 git gc
 echo "Pull completed."
